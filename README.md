@@ -2,7 +2,7 @@
 	<h2>Email Validator App</h2>
 </div>
 
-> [Live Preview](https://rapidapi-example-email-validator-app.vercel.app/)
+> [Live Preview](https://main--earnest-lokum-ff16d4.netlify.app/)
 
 ### ⚡️ Features
 
